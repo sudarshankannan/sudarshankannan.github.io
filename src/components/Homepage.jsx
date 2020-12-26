@@ -1,16 +1,13 @@
-import React, {Component} from 'react';
-import {Link} from 'react-router-dom';
+import React, { Component } from 'react';
 
-class Homepage extends Component{
-    render(){
+class HomePage extends Component {
+    render() {
         return (
-            <header>
-                <ul id="headerButtons">
-                    <li className="navButton"><Link to="">Home</Link></li>
-                </ul>
-        </header>
-        );
+            <div>
+                Home page
+            </div>
+        )
     }
 }
 
-export default Homepage;
+export default HomePage;
