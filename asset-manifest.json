@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sudarshankannan.github.io/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/sudarshankannan.github.io/static/js/main.46d0ad3f.chunk.js",
+    "main.js.map": "/sudarshankannan.github.io/static/js/main.46d0ad3f.chunk.js.map",
+    "runtime-main.js": "/sudarshankannan.github.io/static/js/runtime-main.2f183a5e.js",
+    "runtime-main.js.map": "/sudarshankannan.github.io/static/js/runtime-main.2f183a5e.js.map",
+    "static/js/2.8cc0b56e.chunk.js": "/sudarshankannan.github.io/static/js/2.8cc0b56e.chunk.js",
+    "static/js/2.8cc0b56e.chunk.js.map": "/sudarshankannan.github.io/static/js/2.8cc0b56e.chunk.js.map",
+    "static/js/3.1de6e113.chunk.js": "/sudarshankannan.github.io/static/js/3.1de6e113.chunk.js",
+    "static/js/3.1de6e113.chunk.js.map": "/sudarshankannan.github.io/static/js/3.1de6e113.chunk.js.map",
+    "index.html": "/sudarshankannan.github.io/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/sudarshankannan.github.io/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.8cc0b56e.chunk.js.LICENSE.txt": "/sudarshankannan.github.io/static/js/2.8cc0b56e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/sudarshankannan.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f183a5e.js",
+    "static/js/2.8cc0b56e.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.46d0ad3f.chunk.js"
+  ]
+}
